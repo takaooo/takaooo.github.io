@@ -1,0 +1,28 @@
+{
+"employeeResults":[
+  {
+    "employeeId" : "123",
+    "firstName" : "Alan",
+    "familyName" : "Jimbob",
+    "title" : "Analyst",
+    "team" : "Totem",
+    "managerId" : "124"
+  },
+  {
+    "employeeId" :  "124",
+    "firstName" : "Miranda",
+    "familyName" : "Arambepola",
+    "title" : "Director",
+    "team" : "Totem",
+    "managerId" : null
+  },
+  {
+    "employeeId" :  "125",
+    "firstName" : "David",
+    "familyName" : "McBoatface",
+    "title" : "Associate",
+    "team" : "Totem",
+    "managerId" :  "124"
+  }
+]
+}
